@@ -31,21 +31,21 @@
 		{
 			"name": "households(10k)",
 			"constraints": {
-				"required": true,
+				"required": false,
 				"type": "http://www.w3.org/2001/XMLSchema#string"
 			}
 		},
 		{
 			"name": "total_population(10k)",
 			"constraints": {
-				"required": true,
+				"required": false,
 				"type": "http://www.w3.org/2001/XMLSchema#string"
 			}
 		},
 		{
 			"name": "non-rural_population(10k)",
 			"constraints": {
-				"required": true,
+				"required": false,
 				"type": "http://www.w3.org/2001/XMLSchema#string"
 			}
 		},
