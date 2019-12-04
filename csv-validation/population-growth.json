@@ -53,7 +53,7 @@
 			"name": "page_in_source",
 			"constraints": {
 				"required": true,
-				"type": "http://www.w3.org/2001/XMLSchema#int"
+				"type": "http://www.w3.org/2001/XMLSchema#integer"
 			}
 		}
 	],
