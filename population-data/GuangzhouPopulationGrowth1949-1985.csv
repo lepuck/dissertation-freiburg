@@ -1,6 +1,4 @@
-"place_name
-",lat,long,date,households(10k),"total_population(10k)
-",non-rural_population(10k),page_in_source
+place_name,lat,long,date,households(10k),total_population(10k),non-rural_population(10k),page_in_source
 Guangzhou,23.128994,113.25325,1949,n/a,n/a,n/a,248
 Guangzhou,23.128994,113.25325,1950,n/a,116.8,n/a,248
 Guangzhou,23.128994,113.25325,1951,n/a,124.5,n/a,248

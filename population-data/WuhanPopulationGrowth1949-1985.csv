@@ -1,6 +1,4 @@
-"place_name
-",lat,long,date,households(10k),"total_population(10k)
-",non-rural_population(10k),page_in_source
+place_name,lat,long,date,households(10k),total_population(10k),non-rural_population(10k),page_in_source
 Wuhan,30.583332,114.283333,1949,n/a,n/a,n/a,244
 Wuhan,30.583332,114.283333,1950,n/a,118.6,n/a,244
 Wuhan,30.583332,114.283333,1951,n/a,126.7,n/a,244

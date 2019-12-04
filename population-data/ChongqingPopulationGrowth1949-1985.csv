@@ -1,6 +1,4 @@
-"place_name
-",lat,long,date,households(10k),"total_population(10k)
-",non-rural_population(10k),page_in_source
+place_name,lat,long,date,households(10k),total_population(10k),non-rural_population(10k),page_in_source
 Chongqing,29.5627804,106.5527802,1949,n/a,n/a,n/a,257
 Chongqing,29.5627804,106.5527802,1950,n/a,108.3,n/a,257
 Chongqing,29.5627804,106.5527802,1951,n/a,92.8,n/a,257
