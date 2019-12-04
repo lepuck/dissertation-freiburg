@@ -1,0 +1,68 @@
+{
+	"fields": [
+		{
+			"name": "place_name",
+			"title": "place_name",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "lat",
+			"title": "lat",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#double"
+			}
+		},
+		{
+			"name": "long",
+			"title": "long",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#double"
+			}
+		},
+		{
+			"name": "date",
+			"title": "date",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#gYear"
+			}
+		},
+		{
+			"name": "households(10k)",
+			"title": "households(10k)",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "total_population(10k)",
+			"title": "total_population(10k)",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "non-rural_population(10k)",
+			"title": "non-rural_population(10k)",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "page_in_source",
+			"title": "page_in_source",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		}
+	]
+}
